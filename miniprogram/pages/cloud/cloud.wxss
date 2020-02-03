@@ -1,0 +1,8 @@
+/* pages/cloud/cloud.wxss */
+@import '../../style/common.wxss';
+
+.title{
+  color: goldenrod;
+  padding-left: 285rpx;
+  margin: 30rpx;
+}
